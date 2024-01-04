@@ -1,0 +1,22 @@
+@media (min-width: 768px){
+.pad {
+    padding-top: 55px !important;
+    /* padding-top: 35px; */
+}
+}
+
+.bg-image {
+    background-image: linear-gradient(lightblue, white);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+  }
+
+  .fa-cog {
+    color: red;
+  }
+
+  .fa-ins{
+      color: #3f729b;
+  }
